@@ -2,22 +2,19 @@ h1{color: hsl(311, 100%, 74%);}
 
 body{background-color: rgb(255, 209, 209);}
 
-img{
-    width: 330px;
-    height: 240px;
-}
-.foto1{
-    padding-left: 70px;
-}
-.foto2{
-    padding-left: 370px;
-}
-.p3{
+img{  width: 330px;
+     height: 240px;}
 
-    color: 311, hsl(311, 100%, 74%);
-}
-.p1{
+.foto1{padding-left: 70px;}
 
-padding-top: 100px;
+.foto2{padding-left: 370px;}
 
-}
+.foto3{padding-left: 340px;}
+
+.p3{color: 311, hsl(311, 100%, 74%);}
+
+.p1{padding-top: 100px;}
+
+.h1{color: hwb(311, 100% 74%);}
+
+.p{padding-top: 10px;}
